@@ -38,3 +38,5 @@ for step = 1:numSteps
         drawnow;
     end
 end
+
+% first simple version
